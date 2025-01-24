@@ -2,8 +2,7 @@
 
 Ce projet implémente un système de détection des joueurs alliés (employés) dans le jeu **Lethal Company** à l'aide du modèle YOLOv5 de Ultralytics, fine-tuné sur des données spécifiques au jeu.
 
-![Uploading animiertes-gif-von-online-umwandeln-de(4).gif…]()
-
+![animiertes-gif-von-online-umwandeln-de(4)](https://github.com/user-attachments/assets/2a47de1d-4869-48c9-8736-761b1044212c)
 
 ---
 
